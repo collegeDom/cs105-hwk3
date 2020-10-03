@@ -1,4 +1,4 @@
-Step 3: Cooking your Omelet
+# Step 3: Cooking your Omelet
 
 1. Place a skillet on your stove
 2. Butter your skillet
