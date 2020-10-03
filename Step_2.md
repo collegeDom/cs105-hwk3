@@ -1,4 +1,4 @@
-#Step 2: Preparing your ingredients
+# Step 2: Preparing your ingredients
 
 *Make sure you have the following equipment ready for use:*
 * 1 small bowl
